@@ -39,9 +39,9 @@
   <url>${site.url}/${site.url.module.prefix}/</url>
 
   <scm>
-    <connection>scm:git:https://github.com/wcm-io/json-dialog-conversion-plugin.git</connection>
-    <developerConnection>scm:git:https://github.com/wcm-io/json-dialog-conversion-plugin.git</developerConnection>
-    <url>https://github.com/wcm-io/json-dialog-conversion-plugin</url>
+    <connection>scm:git:https://github.com/wcm-io/io.wcm.maven.plugins.json-dialog-conversion-plugin.git</connection>
+    <developerConnection>scm:git:https://github.com/wcm-io/io.wcm.maven.plugins.json-dialog-conversion-plugin.git</developerConnection>
+    <url>https://github.com/wcm-io/io.wcm.maven.plugins.json-dialog-conversion-plugin</url>
     <tag>HEAD</tag>
   </scm>
 

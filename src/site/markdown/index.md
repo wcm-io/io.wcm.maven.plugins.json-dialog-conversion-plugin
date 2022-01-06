@@ -45,7 +45,7 @@ mvn io.wcm.maven.plugins:json-dialog-conversion-plugin:convert -Dconvert.formatO
 
 ### GitHub Repository
 
-Sources: https://github.com/wcm-io/json-dialog-conversion-plugin
+Sources: https://github.com/wcm-io/io.wcm.maven.plugins.json-dialog-conversion-plugin
 
 
 [aem-dialog-conversion]: https://github.com/Adobe-Marketing-Cloud/aem-dialog-conversion
