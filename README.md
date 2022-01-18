@@ -1,4 +1,4 @@
-<img src="https://wcm.io/images/favicon-16@2x.png"/> json-dialog-conversion-plugin
+<img src="https://wcm.io/images/favicon-16@2x.png"/> json-dialog-conversion-plugin (deprecated)
 ======
 [![Build](https://github.com/wcm-io/io.wcm.maven.plugins.json-dialog-conversion-plugin/workflows/Build/badge.svg?branch=develop)](https://github.com/wcm-io/io.wcm.maven.plugins.json-dialog-conversion-plugin/actions?query=workflow%3ABuild+branch%3Adevelop)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.wcm.maven.plugins/json-dialog-conversion-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.wcm.maven.plugins/json-dialog-conversion-plugin)
